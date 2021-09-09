@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com suporte tecnico
 - 🌱 Estudando Java, PHP e MySQL.
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
  <div>
   <a href="https://github.com/jonatanrask">
@@ -18,5 +18,5 @@
   <img align="center" alt="Rask-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Rask-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" alt="Rask-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Rask-SQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="right" alt="Rask-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
