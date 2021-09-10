@@ -1,8 +1,7 @@
-### Olá, Eu sou o Jonatan Rask �
+### Olá, Eu sou o Jonatan Rask 
 
-- 🔭 Hoje trabalho com suporte tecnico
+- 🔭 Hoje trabalho com suporte tecnico JR.
 - 🌱 Estudando Java, PHP e MySQL.
-- 😄 Pronomes: Ele/Dele
 
  <div>
   <a href="https://github.com/jonatanrask">
