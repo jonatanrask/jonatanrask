@@ -1,7 +1,9 @@
-### Olá, Eu sou o Jonatan Rask 
+### Olá, Eu sou o Jonatan Rask 👋👋👋
 
-- 🔭 Hoje trabalho com suporte tecnico JR.
+- 🔭 trabalhando atualmente como suporte tecnico JR.
 - 🌱 Estudando Java, PHP e MySQL.
+- 📫 Tudo fica melhor com o tema Dracula.
+
 
  <div>
   <a href="https://github.com/jonatanrask">
