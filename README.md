@@ -1,7 +1,10 @@
 ### Olá, Eu sou o Jonatan Rask 👋👋👋
 
-- 🔭 trabalhando atualmente como suporte tecnico JR.
-- 🌱 Estudando Java, PHP e MySQL.
+### Sobre mim
+- 👨‍💻 Meu real nome é Jonatan Nascimento dos Santos.
+- 🔭 Trabalhando atualmente como suporte tecnico JR.
+- 👨‍🎓 Estudando Java, PHP e MySQL.
+- 🎯 Interesse em desenvolvimento BackEnd e Mobile.
 - 📫 Tudo fica melhor com o tema Dracula.
 
 
@@ -10,6 +13,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatanrask&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatanrask&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+ 
+ ## Skills e Tecnologias que estudo :nerd_face:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rask-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
@@ -25,6 +30,8 @@
  ##
  
 <div> 
+ 
+ ## Contatos e Redes Sociais  :iphone:
 
   <a href="https://www.instagram.com/jonatan_rasky/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/dDVRY4QPxW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
