@@ -2,8 +2,7 @@
 
 ### Sobre mim
 - 👨‍💻 Meu real nome é Jonatan Nascimento dos Santos.
-- 🔭 Trabalhando atualmente como suporte tecnico JR.
-- 👨‍🎓 Estudando Java, PHP e MySQL.
+- 👨‍🎓 Cursando Sistemas de informação na UFMS
 - 🎯 Interesse em desenvolvimento BackEnd e Mobile.
 - 📫 Tudo fica melhor com o tema Dracula.
 
