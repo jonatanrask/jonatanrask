@@ -38,4 +38,5 @@
   <a href = "https://twitter.com/jonatanhasky"><img src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonatan-nascimento-dos-santos-4a5850205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![](https://github.com/jonatanrask/snk/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/jonatanrask/jonatanrask/blob/output/github-contribution-grid-snake.svg)
+
