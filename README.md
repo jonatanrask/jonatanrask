@@ -1,4 +1,4 @@
-### Olá, Eu sou o Jonatan Rask 👋👋👋
+### Olá, Eu sou o Jonatan👋👋👋
 
 ### Sobre mim
 - 👨‍🎓 Cursando Sistemas de informação na UFMS
