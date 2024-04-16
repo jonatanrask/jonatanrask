@@ -2,7 +2,7 @@
 
 ### Sobre mim
 - 👨‍🎓 Cursando Sistemas de informação na UFMS
-- 🎯 Interesse em desenvolvimento BackEnd e Mobile.
+- 🎯 Desenvolvedor BackEnd e Mobile.
 
 
  <div>
